@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/philosophy-dialogues/static/css/main.395a0dd1.css",
-    "main.js": "/philosophy-dialogues/static/js/main.fcedc15b.js",
+    "main.css": "/philosophy-dialogues/static/css/main.c3ef4bab.css",
+    "main.js": "/philosophy-dialogues/static/js/main.26cae4ef.js",
     "index.html": "/philosophy-dialogues/index.html",
-    "main.395a0dd1.css.map": "/philosophy-dialogues/static/css/main.395a0dd1.css.map",
-    "main.fcedc15b.js.map": "/philosophy-dialogues/static/js/main.fcedc15b.js.map"
+    "main.c3ef4bab.css.map": "/philosophy-dialogues/static/css/main.c3ef4bab.css.map",
+    "main.26cae4ef.js.map": "/philosophy-dialogues/static/js/main.26cae4ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.395a0dd1.css",
-    "static/js/main.fcedc15b.js"
+    "static/css/main.c3ef4bab.css",
+    "static/js/main.26cae4ef.js"
   ]
 }
