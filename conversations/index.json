@@ -1,10 +1,6 @@
 [
     {
-        "title": "Determinism and Meaning",
-        "file": "001-determinism-and-meaning.md"
-    },
-    {
-        "title": "Free Will and Fatalism",
-        "file": "002-freewill-and-fatalism.md"
+        "title": "Chapter 1",
+        "file": "001.md"
     }
 ]
