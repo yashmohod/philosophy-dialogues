@@ -13,7 +13,7 @@ export default function AboutPage() {
             </p>
 
             <p className="max-w-xl text-muted italic mb-8">
-                “We are not reasoning *toward* certainty, but wandering *within* it.”
+                “We are not reasoning <em>toward</em> certainty, but wandering <em>within</em> it.”
             </p>
 
             <div className="text-lg text-muted mb-6">
@@ -25,13 +25,21 @@ export default function AboutPage() {
                     className="text-accent hover:text-accent2 transition-colors"
                 >
                     Yash Mohod
-                </a>.
+                </a>
+                {" "}in collaboration with an AI conversational partner.
             </div>
 
-            <p className="max-w-2xl text-muted">
+            <p className="max-w-2xl text-muted mb-8">
                 Yash is exploring the intersection of philosophy, code, and design — building digital
-                spaces that don’t just inform but *transform* how we think. This site serves as a live
+                spaces that don’t just inform but <em>transform</em> how we think. This site serves as a live
                 experiment in that mission.
+            </p>
+
+            <p className="max-w-2xl text-muted">
+                The dialogues are held with <strong>ChatGPT</strong>, an artificial intelligence model that
+                helps structure, question, and expand ideas in real time. It acts as a mirror for reason —
+                testing logic, introducing historical context, and sometimes, provoking paradox. Together,
+                human and machine trace the edges of what thinking itself might become.
             </p>
         </div>
     );
