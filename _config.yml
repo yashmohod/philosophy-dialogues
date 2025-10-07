@@ -1,0 +1,13 @@
+title: "Philosophy Dialogues"
+description: "Exploring determinism, consciousness, and meaning through structured conversation."
+theme: jekyll-theme-cayman
+markdown: kramdown
+collections:
+  conversations:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "conversations"
+    values:
+      layout: "default"
